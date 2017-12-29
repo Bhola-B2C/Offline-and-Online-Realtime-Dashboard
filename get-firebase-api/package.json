@@ -1,0 +1,19 @@
+{
+  "name": "get-firebase-api",
+  "version": "1.0.0",
+  "description": "Its API to triger a post request in other port of same server as soon as new child is added",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhola",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "firebase": "^4.8.0",
+    "morgan": "^1.9.0",
+    "readline-sync": "^1.4.7",
+    "request": "^2.83.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "get-rethinkdb-api",
+  "version": "1.0.0",
+  "description": "Its an API to update dashboard in realtime but offline not firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhola",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "rethinkdb": "^2.3.3"
+  }
+}
